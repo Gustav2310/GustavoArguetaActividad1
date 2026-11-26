@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\actividad2 tareas Gustavo\actividad2 tareas Gustavo\bin\Debug\actividad2 tareas Gustavo.exe.config
+C:\Users\Huawei\source\repos\actividad2 tareas Gustavo\actividad2 tareas Gustavo\bin\Debug\actividad2 tareas Gustavo.exe
+C:\Users\Huawei\source\repos\actividad2 tareas Gustavo\actividad2 tareas Gustavo\bin\Debug\actividad2 tareas Gustavo.pdb
+C:\Users\Huawei\source\repos\actividad2 tareas Gustavo\actividad2 tareas Gustavo\obj\Debug\actividad2 tareas Gustavo.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\actividad2 tareas Gustavo\actividad2 tareas Gustavo\obj\Debug\actividad2 tareas Gustavo.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\actividad2 tareas Gustavo\actividad2 tareas Gustavo\obj\Debug\actividad2 tareas Gustavo.exe
+C:\Users\Huawei\source\repos\actividad2 tareas Gustavo\actividad2 tareas Gustavo\obj\Debug\actividad2 tareas Gustavo.pdb

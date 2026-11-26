@@ -1,0 +1,10 @@
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\bin\Debug\Actividad1 Tarea Gustavo A.exe.config
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\bin\Debug\Actividad1 Tarea Gustavo A.exe
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\bin\Debug\Actividad1 Tarea Gustavo A.pdb
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\obj\Debug\Actividad1 Tarea Gustavo A.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\obj\Debug\Actividad1_Tarea_Gustavo_A.Form1.resources
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\obj\Debug\Actividad1_Tarea_Gustavo_A.Properties.Resources.resources
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\obj\Debug\Actividad1 Tarea Gustavo A.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\obj\Debug\Actividad1 Tarea Gustavo A.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\obj\Debug\Actividad1 Tarea Gustavo A.exe
+C:\Users\Huawei\source\repos\Actividad1 Tarea Gustavo A\Actividad1 Tarea Gustavo A\obj\Debug\Actividad1 Tarea Gustavo A.pdb
